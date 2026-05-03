@@ -26,17 +26,17 @@ Tech Stack
  ├── database.sql
 
  **Setup Instructions**
-
 1.Backend (Spring Boot)
-
 - Open backend (DSATM) in STS/Eclipse
 - Configure database in `application.properties`
 - Run Spring Boot app
 
 2.Frontend (React)
 ```bash
-npm install
-npm start
-
+ npm install
+ npm startcode
+```
 3.API Base URL
 http://localhost:8083/cosmetics
+   
+
